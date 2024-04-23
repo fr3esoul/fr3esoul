@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fr3esoul
+- 🌱 I’m currently learning DevOps AWS
